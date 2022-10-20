@@ -17,6 +17,6 @@ I am a begging Software Developer/Engineer in hopes to be in Research and Develo
 ![DeviousWings' GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviousWings&show_icons=true&theme=tokyonight)
 
 #
-### DeviousWings Coding Jounrey
+### 📊 DeviousWings Coding Jounrey
 
-Deviouswings
+    I started my jounrey as the family IT guy. I knew I liked messing with computers, fixing them, tweeking them, and understanding how they worked. I soon starting looking at what I could do in the filed. I went from Industrial Engineering > Mechatronic Engineering > then finally realized I liked being able to create the software. I landed on Software Engineering/Development. I am studying Web Development and Machine Learning. I will soon start publishing my twitter bot.
