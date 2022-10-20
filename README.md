@@ -11,3 +11,12 @@ I am a begging Software Developer/Engineer in hopes to be in Research and Develo
 <br />
 
 #
+
+### Stats
+
+![DeviousWings' GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviousWings&show_icons=true&theme=tokyonight)
+
+#
+### DeviousWings Coding Jounrey
+
+Deviouswings
