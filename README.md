@@ -1,5 +1,5 @@
  ## :floppy_disk: DeviousWings
-I am a begging Software Developer/Engineer in hopes to be in Research and Development with Space Exploration. I am doing getting my BA in Software Engineering and taking course on Udemy, freeCodeCamp, Bottega University Coding DevCamp. All projects will be listed if from school projects or my own making. School Projects will have some copy and for the assignment. My projects will be built from the ground up. My projects will be testing my knowledge from certain day to day problems I see in the world.
+<h3>I am a begging Software Developer/Engineer in hopes to be in Research and Development with Space Exploration. I am doing getting my BA in Software Engineering and taking course on Udemy, freeCodeCamp, Bottega University Coding DevCamp. All projects will be listed if from school projects or my own making. School Projects will have some copy and for the assignment. My projects will be built from the ground up. My projects will be testing my knowledge from certain day to day problems I see in the world.</h3>
 ---
 ### :toolbox: Languages and Tools
 
