@@ -1,5 +1,5 @@
  ## :floppy_disk: DeviousWings
-<h3>I am in college Freelance Web Developer in hopes to be in Research and Development with Space Exploration. I am getting my BA in Software Engineering and taking courses on Udemy, freeCodeCamp, Bottega University Coding DevCamp. All projects will be listed whether from school projects or my own making. School Projects will have some copy and for the assignment. My projects will be built from the ground up. My projects will be testing my knowledge of certain day-to-day problems I see in the world. </h3>
+<h3>I am a Freelance Web Developer with hopes to be in Research and Development with Space Exploration. I am getting my BA in Software Engineering and taking courses on Udemy, freeCodeCamp, and Bottega University Coding DevCamp. I have a GitHub where all my projects will be posted on. School Projects will have some copy and for the assignment. My projects will be built from the ground up. My projects will be testing my knowledge of certain day-to-day problems I see in the world. </h3>
 
 ---
 ### :toolbox: Languages and Tools
