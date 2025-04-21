@@ -29,7 +29,7 @@
 ### 🚀 Featured Projects
 
 - 🛰️ [**Cosmos Library**](https://github.com/DeviousWings/CosmosSite): A space blog and data hub integrating APIs from NASA and beyond.
-- 🧠 [**AI Stock Bot**](https://github.com/DeviousWings/AI-Stock-Bot): A crypto/stock prediction bot built with Python and ML.
+- 🧠 [**AI Stock Bot**](https://github.com/DeviousWings/AI-Stock-Bot): A crypto/stock prediction bot built with Python and ML. (Under construction)
 - 📘 [**Scripture Study Tools**](https://github.com/DeviousWings/Scripture-Study-Tools): Extracts gospel principles and insights using user-friendly tools.
 
 ---
