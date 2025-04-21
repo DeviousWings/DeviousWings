@@ -50,10 +50,9 @@
 
 ### 🔗 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.com)
-[![Substack](https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white)](https://your-substack-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://deviouswings.github.io/PortDev/)
+[![Substack](https://img.shields.io/badge/Substack-orange?style=for-the-badge&logo=substack&logoColor=white)](https://natdeviouswings.substack.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathanaelking91/)
 
 ---
 
