@@ -18,6 +18,11 @@
 ![DeviousWings' GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviousWings&show_icons=true&theme=tokyonight)
 
 #
+### Github Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=DeviousWings&theme=onedark&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+#
 <details>
 <summary><h3>👨‍💻DeviousWings Coding Journey</h3></summary>
     I started my journey as the family IT guy. I knew I liked messing with computers, fixing them, tweeking them, and understanding how they worked. I soon starting looking at what I could do in the filed. I went from Industrial Engineering > Mechatronic Engineering > then finally realized I liked being able to create the software. I landed on Software Engineering/Development. I am studying Web Development and Machine Learning. I will soon start publishing my twitter bot.
