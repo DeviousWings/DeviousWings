@@ -57,8 +57,7 @@
 
 ---
 
-<details>
-<summary><h3>👨‍💻 DeviousWings Coding Journey</h3></summary>
+<h3>👨‍💻 DeviousWings Coding Journey</h3>
 
 I started my journey as the family IT guy. I liked messing with computers—fixing, tweaking, and learning how they worked. Over time, I explored paths like Industrial Engineering and Mechatronics before discovering a passion for creating software. Now, I’m pursuing Software Engineering with an emphasis on Web Development and Machine Learning.
 
