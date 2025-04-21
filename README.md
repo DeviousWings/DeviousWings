@@ -28,9 +28,9 @@
 
 ### 🚀 Featured Projects
 
-- 🛰️ [**Cosmos Library**](https://github.com/DeviousWings/CosmosSite): A space blog and data hub integrating APIs from NASA and beyond.
-- 🧠 [**AI Stock Bot**](https://github.com/DeviousWings/AI-Stock-Bot): A crypto/stock prediction bot built with Python and ML. (Under construction)
-- 📘 [**Scripture Study Tools**](https://github.com/DeviousWings/Scripture-Study-Tools): Extracts gospel principles and insights using user-friendly tools.
+- 🛰️ [**Cosmos Library**](https://github.com/DeviousWings/CosmosSite): A space blog and data hub integrating APIs from NASA and beyond. [***Live Site***](https://cosmiclibrary.netlify.app/)
+- 🧠 [**AI Stock Bot**](https://github.com/DeviousWings/AI-Stock-Bot): A crypto/stock prediction bot built with Python and ML. (Under construction: Not yet live)
+- 📘 [**Text Insight Toolkit**](https://github.com/DeviousWings/Scripture-Study-Tools): A toolset for analyzing and reflecting on complex text—great for exploring themes, extracting patterns, or studying historical documents.
 
 ---
 
